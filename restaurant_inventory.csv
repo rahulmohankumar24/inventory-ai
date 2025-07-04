@@ -1,0 +1,967 @@
+product_id,product_name,current_stock,sales_history
+1,Lettuce,22,5|6|7|8|9|6
+2,Pasta,92,10|12|11|13|14
+3,Olive Oil,21,2|3|2|4|3
+4,Flour,106,20|22|21|19|20
+5,Chicken Breast,45,8|7|9|10|8
+6,Tomatoes,44,12|13|11|12|14
+7,Cheese,44,5|6|5|7|6
+8,Eggs,103,30|32|31|29|30
+9,Butter,25,5|4|6|5|5
+10,Rice,104,10|12|11|13|12
+1044,Cheese,35,5
+1045,Eggs,59,30
+1046,Cheese,35,5
+1047,Rice,41,10
+1048,Pasta,37,15
+1049,Olive Oil,19,2
+1050,Butter,56,5
+1051,Pasta,68,15
+1052,Tomatoes,35,10
+1053,Tomatoes,55,10
+1054,Olive Oil,8,2
+1055,Tomatoes,45,10
+1056,Chicken Breast,52,10
+1057,Rice,140,10
+1058,Tomatoes,32,10
+1059,Olive Oil,19,2
+1060,Rice,32,10
+1061,Chicken Breast,73,10
+1062,Cheese,24,5
+1063,Lettuce,35,5
+1064,Flour,100,20
+1065,Rice,24,10
+1066,Butter,58,5
+1067,Rice,148,10
+1068,Olive Oil,9,2
+1069,Butter,28,5
+1070,Chicken Breast,37,10
+1071,Chicken Breast,47,10
+1072,Rice,38,10
+1073,Cheese,49,5
+1074,Flour,31,20
+1075,Flour,196,20
+1076,Olive Oil,15,2
+1077,Butter,41,5
+1078,Tomatoes,21,10
+1079,Flour,82,20
+1080,Pasta,43,15
+1081,Rice,99,10
+1082,Chicken Breast,29,10
+1083,Rice,42,10
+1084,Chicken Breast,76,10
+1085,Eggs,186,30
+1086,Olive Oil,22,2
+1087,Eggs,50,30
+1088,Lettuce,22,5
+1089,Olive Oil,12,2
+1090,Rice,20,10
+1091,Olive Oil,22,2
+1092,Tomatoes,64,10
+1093,Lettuce,31,5
+1094,Lettuce,24,5
+1095,Eggs,71,30
+1096,Rice,24,10
+1097,Pasta,101,15
+1098,Tomatoes,45,10
+1099,Olive Oil,3,2
+1100,Cheese,13,5
+1101,Chicken Breast,27,10
+1102,Rice,29,10
+1103,Chicken Breast,20,10
+1104,Rice,76,10
+1105,Olive Oil,9,2
+1106,Flour,20,20
+1107,Tomatoes,87,10
+1108,Lettuce,6,5
+1109,Pasta,26,15
+1110,Tomatoes,93,10
+1111,Eggs,136,30
+1112,Pasta,45,15
+1113,Butter,42,5
+1114,Eggs,166,30
+1115,Cheese,5,5
+1116,Butter,5,5
+1117,Chicken Breast,75,10
+1118,Cheese,48,5
+1119,Olive Oil,29,2
+1120,Cheese,40,5
+1121,Cheese,18,5
+1122,Chicken Breast,46,10
+1123,Butter,53,5
+1124,Butter,46,5
+1125,Chicken Breast,47,10
+1126,Pasta,57,15
+1127,Rice,84,10
+1128,Lettuce,21,5
+1129,Flour,99,20
+1130,Eggs,290,30
+1131,Rice,18,10
+1132,Cheese,34,5
+1133,Flour,110,20
+1134,Butter,13,5
+1135,Eggs,295,30
+1136,Chicken Breast,68,10
+1137,Rice,94,10
+1138,Chicken Breast,50,10
+1139,Tomatoes,12,10
+1140,Eggs,69,30
+1141,Lettuce,21,5
+1142,Butter,11,5
+1143,Olive Oil,13,2
+1144,Chicken Breast,22,10
+1145,Olive Oil,12,2
+1146,Eggs,282,30
+1147,Lettuce,37,5
+1148,Flour,45,20
+1149,Lettuce,8,5
+1150,Olive Oil,23,2
+1151,Olive Oil,8,2
+1152,Cheese,6,5
+1153,Pasta,111,15
+1154,Tomatoes,12,10
+1155,Rice,47,10
+1156,Chicken Breast,15,10
+1157,Butter,54,5
+1158,Lettuce,20,5
+1159,Pasta,79,15
+1160,Tomatoes,18,10
+1161,Chicken Breast,11,10
+1162,Flour,191,20
+1163,Rice,148,10
+1164,Pasta,63,15
+1165,Eggs,106,30
+1166,Eggs,159,30
+1167,Flour,108,20
+1168,Chicken Breast,55,10
+1169,Eggs,147,30
+1170,Lettuce,36,5
+1171,Olive Oil,22,2
+1172,Cheese,40,5
+1173,Rice,62,10
+1174,Olive Oil,17,2
+1175,Cheese,30,5
+1176,Chicken Breast,20,10
+1177,Eggs,87,30
+1178,Chicken Breast,31,10
+1179,Cheese,11,5
+1180,Rice,53,10
+1181,Flour,46,20
+1182,Tomatoes,51,10
+1183,Eggs,75,30
+1184,Cheese,22,5
+1185,Flour,77,20
+1186,Rice,145,10
+1187,Chicken Breast,19,10
+1188,Eggs,83,30
+1189,Pasta,31,15
+1190,Lettuce,12,5
+1191,Pasta,62,15
+1192,Flour,76,20
+1193,Butter,21,5
+1194,Chicken Breast,42,10
+1195,Cheese,45,5
+1196,Pasta,106,15
+1197,Butter,39,5
+1198,Pasta,98,15
+1199,Butter,23,5
+1200,Eggs,186,30
+1201,Eggs,34,30
+1202,Chicken Breast,27,10
+1203,Rice,138,10
+1204,Eggs,253,30
+1205,Tomatoes,46,10
+1206,Chicken Breast,67,10
+1207,Cheese,42,5
+1208,Cheese,42,5
+1209,Olive Oil,18,2
+1210,Olive Oil,15,2
+1211,Pasta,73,15
+1212,Cheese,48,5
+1213,Chicken Breast,42,10
+1214,Eggs,156,30
+1215,Pasta,60,15
+1216,Lettuce,21,5
+1217,Cheese,31,5
+1218,Chicken Breast,42,10
+1219,Pasta,89,15
+1220,Tomatoes,13,10
+1221,Rice,90,10
+1222,Tomatoes,35,10
+1223,Cheese,46,5
+1224,Tomatoes,75,10
+1225,Eggs,246,30
+1226,Butter,19,5
+1227,Lettuce,12,5
+1228,Flour,192,20
+1229,Rice,18,10
+1230,Cheese,8,5
+1231,Olive Oil,9,2
+1232,Cheese,5,5
+1233,Butter,35,5
+1234,Lettuce,34,5
+1235,Cheese,39,5
+1236,Tomatoes,90,10
+1237,Chicken Breast,50,10
+1238,Olive Oil,20,2
+1239,Olive Oil,19,2
+1240,Lettuce,12,5
+1241,Rice,57,10
+1242,Pasta,72,15
+1243,Rice,87,10
+1244,Eggs,79,30
+1245,Lettuce,18,5
+1246,Butter,56,5
+1247,Rice,27,10
+1248,Butter,43,5
+1249,Olive Oil,22,2
+1250,Olive Oil,16,2
+1251,Butter,12,5
+1252,Flour,28,20
+1253,Tomatoes,13,10
+1254,Cheese,17,5
+1255,Lettuce,35,5
+1256,Chicken Breast,38,10
+1257,Olive Oil,27,2
+1258,Butter,15,5
+1259,Cheese,26,5
+1260,Flour,122,20
+1261,Tomatoes,30,10
+1262,Tomatoes,24,10
+1263,Pasta,61,15
+1264,Flour,188,20
+1265,Olive Oil,21,2
+1266,Rice,77,10
+1267,Flour,93,20
+1268,Lettuce,6,5
+1269,Chicken Breast,30,10
+1270,Eggs,251,30
+1271,Eggs,298,30
+1272,Eggs,217,30
+1273,Lettuce,21,5
+1274,Rice,84,10
+1275,Cheese,49,5
+1276,Flour,60,20
+1277,Chicken Breast,41,10
+1278,Olive Oil,20,2
+1279,Chicken Breast,51,10
+1280,Butter,14,5
+1281,Tomatoes,79,10
+1282,Butter,13,5
+1283,Pasta,37,15
+1284,Flour,133,20
+1285,Chicken Breast,72,10
+1286,Lettuce,24,5
+1287,Pasta,45,15
+1288,Eggs,127,30
+1289,Olive Oil,7,2
+1290,Flour,165,20
+1291,Chicken Breast,39,10
+1292,Cheese,12,5
+1293,Cheese,33,5
+1294,Pasta,15,15
+1295,Lettuce,18,5
+1296,Pasta,17,15
+1297,Lettuce,35,5
+1298,Pasta,21,15
+1299,Chicken Breast,47,10
+1300,Lettuce,38,5
+1301,Rice,70,10
+1302,Cheese,21,5
+1303,Butter,36,5
+1304,Olive Oil,14,2
+1305,Olive Oil,25,2
+1306,Cheese,34,5
+1307,Olive Oil,28,2
+1308,Butter,45,5
+1309,Eggs,214,30
+1310,Chicken Breast,65,10
+1311,Cheese,21,5
+1312,Butter,26,5
+1313,Lettuce,30,5
+1314,Rice,118,10
+1315,Olive Oil,15,2
+1316,Eggs,39,30
+1317,Eggs,157,30
+1318,Eggs,103,30
+1319,Eggs,70,30
+1320,Olive Oil,27,2
+1321,Lettuce,6,5
+1322,Cheese,39,5
+1323,Butter,53,5
+1324,Flour,60,20
+1325,Chicken Breast,48,10
+1326,Eggs,225,30
+1327,Pasta,95,15
+1328,Cheese,38,5
+1329,Eggs,181,30
+1330,Lettuce,20,5
+1331,Cheese,20,5
+1332,Chicken Breast,30,10
+1333,Lettuce,7,5
+1334,Butter,35,5
+1335,Eggs,188,30
+1336,Olive Oil,5,2
+1337,Eggs,196,30
+1338,Butter,23,5
+1339,Cheese,15,5
+1340,Lettuce,38,5
+1341,Tomatoes,18,10
+1342,Eggs,134,30
+1343,Lettuce,8,5
+1344,Pasta,80,15
+1345,Chicken Breast,50,10
+1346,Pasta,90,15
+1347,Rice,95,10
+1348,Chicken Breast,56,10
+1349,Flour,199,20
+1350,Rice,149,10
+1351,Lettuce,7,5
+1352,Olive Oil,25,2
+1353,Pasta,43,15
+1354,Rice,17,10
+1355,Chicken Breast,15,10
+1356,Eggs,44,30
+1357,Lettuce,11,5
+1358,Butter,27,5
+1359,Eggs,125,30
+1360,Olive Oil,29,2
+1361,Cheese,29,5
+1362,Tomatoes,75,10
+1363,Flour,87,20
+1364,Flour,52,20
+1365,Flour,53,20
+1366,Flour,169,20
+1367,Cheese,9,5
+1368,Tomatoes,18,10
+1369,Tomatoes,67,10
+1370,Flour,169,20
+1371,Eggs,31,30
+1372,Olive Oil,2,2
+1373,Cheese,50,5
+1374,Tomatoes,19,10
+1375,Butter,44,5
+1376,Cheese,13,5
+1377,Tomatoes,64,10
+1378,Chicken Breast,16,10
+1379,Tomatoes,20,10
+1380,Flour,135,20
+1381,Chicken Breast,75,10
+1382,Rice,93,10
+1383,Chicken Breast,53,10
+1384,Flour,110,20
+1385,Cheese,48,5
+1386,Pasta,38,15
+1387,Lettuce,9,5
+1388,Eggs,174,30
+1389,Lettuce,36,5
+1390,Chicken Breast,13,10
+1391,Flour,73,20
+1392,Cheese,8,5
+1393,Butter,18,5
+1394,Flour,168,20
+1395,Eggs,80,30
+1396,Chicken Breast,78,10
+1397,Eggs,55,30
+1398,Butter,34,5
+1399,Flour,86,20
+1400,Flour,117,20
+1401,Butter,45,5
+1402,Eggs,156,30
+1403,Tomatoes,13,10
+1404,Tomatoes,67,10
+1405,Cheese,13,5
+1406,Pasta,93,15
+1407,Rice,146,10
+1408,Olive Oil,22,2
+1409,Eggs,257,30
+1410,Eggs,179,30
+1411,Butter,49,5
+1412,Cheese,5,5
+1413,Chicken Breast,59,10
+1414,Rice,143,10
+1415,Pasta,81,15
+1416,Pasta,16,15
+1417,Chicken Breast,70,10
+1418,Lettuce,25,5
+1419,Lettuce,21,5
+1420,Olive Oil,6,2
+1421,Pasta,25,15
+1422,Flour,167,20
+1423,Eggs,196,30
+1424,Rice,19,10
+1425,Olive Oil,10,2
+1426,Eggs,144,30
+1427,Butter,26,5
+1428,Rice,100,10
+1429,Chicken Breast,29,10
+1430,Cheese,24,5
+1431,Lettuce,20,5
+1432,Tomatoes,56,10
+1433,Chicken Breast,36,10
+1434,Cheese,14,5
+1435,Flour,77,20
+1436,Eggs,65,30
+1437,Butter,59,5
+1438,Pasta,87,15
+1439,Pasta,93,15
+1440,Flour,144,20
+1441,Cheese,5,5
+1442,Olive Oil,17,2
+1443,Flour,150,20
+1444,Olive Oil,10,2
+1445,Eggs,111,30
+1446,Butter,49,5
+1447,Pasta,64,15
+1448,Lettuce,9,5
+1449,Tomatoes,67,10
+1450,Rice,144,10
+1451,Olive Oil,3,2
+1452,Rice,101,10
+1453,Eggs,43,30
+1454,Pasta,69,15
+1455,Eggs,292,30
+1456,Rice,40,10
+1457,Flour,114,20
+1458,Chicken Breast,35,10
+1459,Rice,107,10
+1460,Chicken Breast,19,10
+1461,Lettuce,7,5
+1462,Cheese,37,5
+1463,Flour,26,20
+1464,Tomatoes,88,10
+1465,Pasta,116,15
+1466,Pasta,105,15
+1467,Tomatoes,87,10
+1468,Pasta,69,15
+1469,Chicken Breast,66,10
+1470,Flour,72,20
+1471,Tomatoes,21,10
+1472,Chicken Breast,39,10
+1473,Eggs,253,30
+1474,Tomatoes,14,10
+1475,Flour,156,20
+1476,Chicken Breast,40,10
+1477,Chicken Breast,62,10
+1478,Eggs,208,30
+1479,Rice,116,10
+1480,Lettuce,11,5
+1481,Butter,26,5
+1482,Flour,114,20
+1483,Olive Oil,7,2
+1484,Olive Oil,24,2
+1485,Chicken Breast,17,10
+1486,Rice,35,10
+1487,Eggs,194,30
+1488,Pasta,59,15
+1489,Chicken Breast,32,10
+1490,Tomatoes,85,10
+1491,Tomatoes,64,10
+1492,Pasta,69,15
+1493,Cheese,25,5
+1494,Cheese,14,5
+1495,Lettuce,22,5
+1496,Rice,72,10
+1497,Cheese,28,5
+1498,Lettuce,23,5
+1499,Butter,42,5
+1500,Cheese,6,5
+1501,Butter,13,5
+1502,Tomatoes,52,10
+1503,Tomatoes,44,10
+1504,Eggs,79,30
+1505,Pasta,20,15
+1506,Olive Oil,24,2
+1507,Rice,17,10
+1508,Rice,88,10
+1509,Flour,22,20
+1510,Olive Oil,24,2
+1511,Flour,103,20
+1512,Chicken Breast,73,10
+1513,Tomatoes,52,10
+1514,Tomatoes,58,10
+1515,Olive Oil,17,2
+1516,Olive Oil,14,2
+1517,Cheese,33,5
+1518,Flour,70,20
+1519,Eggs,158,30
+1520,Pasta,70,15
+1521,Chicken Breast,61,10
+1522,Rice,38,10
+1523,Olive Oil,21,2
+1524,Flour,90,20
+1525,Tomatoes,87,10
+1526,Chicken Breast,68,10
+1527,Pasta,21,15
+1528,Rice,137,10
+1529,Butter,30,5
+1530,Butter,35,5
+1531,Chicken Breast,12,10
+1532,Olive Oil,12,2
+1533,Flour,105,20
+1534,Rice,44,10
+1535,Rice,129,10
+1536,Pasta,85,15
+1537,Olive Oil,25,2
+1538,Cheese,10,5
+1539,Lettuce,18,5
+1540,Olive Oil,18,2
+1541,Cheese,5,5
+1542,Chicken Breast,62,10
+1543,Butter,43,5
+1544,Pasta,20,15
+1545,Rice,34,10
+1546,Flour,173,20
+1547,Cheese,40,5
+1548,Chicken Breast,58,10
+1549,Butter,44,5
+1550,Eggs,155,30
+1551,Eggs,170,30
+1552,Eggs,74,30
+1553,Olive Oil,13,2
+1554,Pasta,46,15
+1555,Flour,70,20
+1556,Chicken Breast,73,10
+1557,Chicken Breast,19,10
+1558,Rice,143,10
+1559,Chicken Breast,33,10
+1560,Lettuce,9,5
+1561,Cheese,37,5
+1562,Olive Oil,11,2
+1563,Chicken Breast,59,10
+1564,Cheese,49,5
+1565,Flour,151,20
+1566,Lettuce,37,5
+1567,Cheese,41,5
+1568,Olive Oil,19,2
+1569,Cheese,32,5
+1570,Eggs,244,30
+1571,Lettuce,22,5
+1572,Rice,121,10
+1573,Flour,156,20
+1574,Rice,126,10
+1575,Butter,37,5
+1576,Eggs,47,30
+1577,Olive Oil,2,2
+1578,Rice,133,10
+1579,Rice,96,10
+1580,Flour,123,20
+1581,Lettuce,13,5
+1582,Chicken Breast,25,10
+1583,Eggs,232,30
+1584,Butter,28,5
+1585,Olive Oil,28,2
+1586,Rice,18,10
+1587,Cheese,20,5
+1588,Tomatoes,56,10
+1589,Pasta,43,15
+1590,Chicken Breast,50,10
+1591,Pasta,70,15
+1592,Chicken Breast,76,10
+1593,Cheese,15,5
+1594,Flour,68,20
+1595,Lettuce,29,5
+1596,Butter,42,5
+1597,Tomatoes,16,10
+1598,Rice,28,10
+1599,Olive Oil,4,2
+1600,Tomatoes,40,10
+1601,Lettuce,26,5
+1602,Pasta,98,15
+1603,Cheese,15,5
+1604,Tomatoes,93,10
+1605,Cheese,6,5
+1606,Flour,24,20
+1607,Rice,144,10
+1608,Eggs,250,30
+1609,Rice,63,10
+1610,Lettuce,32,5
+1611,Tomatoes,65,10
+1612,Cheese,11,5
+1613,Butter,59,5
+1614,Lettuce,23,5
+1615,Chicken Breast,62,10
+1616,Olive Oil,17,2
+1617,Cheese,26,5
+1618,Pasta,85,15
+1619,Chicken Breast,39,10
+1620,Pasta,76,15
+1621,Chicken Breast,29,10
+1622,Tomatoes,65,10
+1623,Tomatoes,68,10
+1624,Pasta,120,15
+1625,Tomatoes,43,10
+1626,Tomatoes,24,10
+1627,Rice,79,10
+1628,Eggs,265,30
+1629,Chicken Breast,48,10
+1630,Cheese,27,5
+1631,Pasta,93,15
+1632,Olive Oil,20,2
+1633,Butter,8,5
+1634,Tomatoes,88,10
+1635,Tomatoes,25,10
+1636,Pasta,79,15
+1637,Pasta,72,15
+1638,Lettuce,39,5
+1639,Eggs,63,30
+1640,Rice,126,10
+1641,Tomatoes,21,10
+1642,Butter,17,5
+1643,Tomatoes,52,10
+1644,Chicken Breast,57,10
+1645,Chicken Breast,27,10
+1646,Lettuce,27,5
+1647,Pasta,82,15
+1648,Butter,21,5
+1649,Flour,64,20
+1650,Butter,25,5
+1651,Butter,28,5
+1652,Eggs,148,30
+1653,Rice,45,10
+1654,Flour,81,20
+1655,Chicken Breast,56,10
+1656,Lettuce,32,5
+1657,Rice,31,10
+1658,Lettuce,18,5
+1659,Flour,54,20
+1660,Butter,55,5
+1661,Olive Oil,16,2
+1662,Pasta,66,15
+1663,Pasta,93,15
+1664,Rice,41,10
+1665,Cheese,21,5
+1666,Olive Oil,30,2
+1667,Cheese,39,5
+1668,Cheese,35,5
+1669,Flour,49,20
+1670,Chicken Breast,76,10
+1671,Olive Oil,16,2
+1672,Butter,25,5
+1673,Pasta,65,15
+1674,Cheese,34,5
+1675,Butter,48,5
+1676,Flour,196,20
+1677,Olive Oil,7,2
+1678,Pasta,119,15
+1679,Flour,192,20
+1680,Chicken Breast,71,10
+1681,Olive Oil,6,2
+1682,Pasta,29,15
+1683,Lettuce,8,5
+1684,Pasta,82,15
+1685,Rice,113,10
+1686,Chicken Breast,45,10
+1687,Chicken Breast,36,10
+1688,Pasta,36,15
+1689,Lettuce,8,5
+1690,Chicken Breast,66,10
+1691,Lettuce,21,5
+1692,Olive Oil,8,2
+1693,Eggs,72,30
+1694,Chicken Breast,77,10
+1695,Chicken Breast,13,10
+1696,Pasta,44,15
+1697,Cheese,43,5
+1698,Chicken Breast,15,10
+1699,Butter,60,5
+1700,Eggs,152,30
+1701,Lettuce,38,5
+1702,Flour,138,20
+1703,Flour,120,20
+1704,Eggs,186,30
+1705,Rice,34,10
+1706,Rice,66,10
+1707,Pasta,105,15
+1708,Olive Oil,23,2
+1709,Flour,87,20
+1710,Cheese,20,5
+1711,Olive Oil,8,2
+1712,Flour,91,20
+1713,Lettuce,25,5
+1714,Olive Oil,26,2
+1715,Olive Oil,3,2
+1716,Pasta,38,15
+1717,Olive Oil,6,2
+1718,Olive Oil,14,2
+1719,Rice,126,10
+1720,Flour,160,20
+1721,Butter,19,5
+1722,Cheese,17,5
+1723,Butter,27,5
+1724,Olive Oil,28,2
+1725,Pasta,59,15
+1726,Butter,23,5
+1727,Lettuce,5,5
+1728,Olive Oil,8,2
+1729,Eggs,69,30
+1730,Flour,137,20
+1731,Pasta,70,15
+1732,Olive Oil,28,2
+1733,Rice,73,10
+1734,Butter,23,5
+1735,Butter,33,5
+1736,Tomatoes,28,10
+1737,Flour,49,20
+1738,Lettuce,26,5
+1739,Eggs,132,30
+1740,Olive Oil,27,2
+1741,Cheese,5,5
+1742,Pasta,41,15
+1743,Cheese,6,5
+1744,Flour,54,20
+1745,Tomatoes,25,10
+1746,Butter,48,5
+1747,Rice,41,10
+1748,Chicken Breast,60,10
+1749,Flour,38,20
+1750,Butter,31,5
+1751,Pasta,96,15
+1752,Olive Oil,21,2
+1753,Butter,24,5
+1754,Chicken Breast,44,10
+1755,Rice,75,10
+1756,Olive Oil,8,2
+1757,Rice,57,10
+1758,Pasta,65,15
+1759,Chicken Breast,43,10
+1760,Flour,176,20
+1761,Lettuce,22,5
+1762,Butter,55,5
+1763,Lettuce,28,5
+1764,Flour,48,20
+1765,Chicken Breast,54,10
+1766,Lettuce,9,5
+1767,Tomatoes,11,10
+1768,Olive Oil,15,2
+1769,Flour,43,20
+1770,Butter,54,5
+1771,Eggs,212,30
+1772,Pasta,95,15
+1773,Pasta,112,15
+1774,Eggs,122,30
+1775,Eggs,47,30
+1776,Cheese,33,5
+1777,Chicken Breast,16,10
+1778,Flour,186,20
+1779,Cheese,36,5
+1780,Eggs,101,30
+1781,Chicken Breast,57,10
+1782,Tomatoes,91,10
+1783,Chicken Breast,45,10
+1784,Rice,118,10
+1785,Cheese,39,5
+1786,Rice,112,10
+1787,Tomatoes,69,10
+1788,Tomatoes,21,10
+1789,Lettuce,9,5
+1790,Chicken Breast,50,10
+1791,Tomatoes,66,10
+1792,Rice,83,10
+1793,Olive Oil,13,2
+1794,Olive Oil,11,2
+1795,Tomatoes,73,10
+1796,Butter,38,5
+1797,Eggs,110,30
+1798,Eggs,39,30
+1799,Pasta,110,15
+1800,Lettuce,7,5
+1801,Pasta,90,15
+1802,Lettuce,28,5
+1803,Tomatoes,92,10
+1804,Tomatoes,21,10
+1805,Pasta,111,15
+1806,Olive Oil,4,2
+1807,Rice,139,10
+1808,Chicken Breast,49,10
+1809,Flour,159,20
+1810,Chicken Breast,77,10
+1811,Olive Oil,8,2
+1812,Tomatoes,42,10
+1813,Butter,30,5
+1814,Lettuce,37,5
+1815,Lettuce,24,5
+1816,Tomatoes,87,10
+1817,Olive Oil,27,2
+1818,Tomatoes,34,10
+1819,Olive Oil,13,2
+1820,Rice,148,10
+1821,Rice,75,10
+1822,Cheese,26,5
+1823,Tomatoes,50,10
+1824,Eggs,191,30
+1825,Rice,117,10
+1826,Cheese,32,5
+1827,Pasta,109,15
+1828,Butter,43,5
+1829,Flour,62,20
+1830,Lettuce,31,5
+1831,Pasta,34,15
+1832,Pasta,25,15
+1833,Eggs,250,30
+1834,Rice,51,10
+1835,Pasta,20,15
+1836,Olive Oil,26,2
+1837,Eggs,267,30
+1838,Tomatoes,79,10
+1839,Tomatoes,97,10
+1840,Chicken Breast,64,10
+1841,Chicken Breast,58,10
+1842,Olive Oil,21,2
+1843,Cheese,10,5
+1844,Olive Oil,15,2
+1845,Rice,142,10
+1846,Lettuce,39,5
+1847,Butter,50,5
+1848,Olive Oil,23,2
+1849,Flour,46,20
+1850,Eggs,148,30
+1851,Eggs,139,30
+1852,Olive Oil,4,2
+1853,Flour,80,20
+1854,Flour,112,20
+1855,Flour,151,20
+1856,Rice,135,10
+1857,Lettuce,12,5
+1858,Tomatoes,12,10
+1859,Tomatoes,86,10
+1860,Chicken Breast,41,10
+1861,Lettuce,7,5
+1862,Lettuce,35,5
+1863,Chicken Breast,65,10
+1864,Butter,5,5
+1865,Pasta,45,15
+1866,Tomatoes,10,10
+1867,Cheese,45,5
+1868,Pasta,34,15
+1869,Rice,117,10
+1870,Eggs,239,30
+1871,Rice,60,10
+1872,Cheese,49,5
+1873,Tomatoes,60,10
+1874,Olive Oil,2,2
+1875,Butter,52,5
+1876,Rice,91,10
+1877,Olive Oil,9,2
+1878,Flour,70,20
+1879,Rice,21,10
+1880,Cheese,14,5
+1881,Tomatoes,50,10
+1882,Chicken Breast,73,10
+1883,Flour,125,20
+1884,Olive Oil,14,2
+1885,Rice,142,10
+1886,Cheese,22,5
+1887,Olive Oil,9,2
+1888,Olive Oil,20,2
+1889,Rice,121,10
+1890,Chicken Breast,78,10
+1891,Butter,41,5
+1892,Chicken Breast,72,10
+1893,Eggs,262,30
+1894,Eggs,217,30
+1895,Eggs,78,30
+1896,Lettuce,18,5
+1897,Butter,6,5
+1898,Lettuce,27,5
+1899,Butter,18,5
+1900,Chicken Breast,66,10
+1901,Rice,141,10
+1902,Flour,163,20
+1903,Olive Oil,3,2
+1904,Rice,141,10
+1905,Butter,58,5
+1906,Flour,115,20
+1907,Pasta,83,15
+1908,Tomatoes,46,10
+1909,Chicken Breast,45,10
+1910,Rice,149,10
+1911,Eggs,195,30
+1912,Cheese,29,5
+1913,Tomatoes,32,10
+1914,Olive Oil,15,2
+1915,Olive Oil,11,2
+1916,Eggs,247,30
+1917,Cheese,42,5
+1918,Tomatoes,100,10
+1919,Pasta,22,15
+1920,Rice,104,10
+1921,Pasta,94,15
+1922,Cheese,8,5
+1923,Flour,187,20
+1924,Flour,145,20
+1925,Eggs,300,30
+1926,Eggs,266,30
+1927,Rice,85,10
+1928,Flour,25,20
+1929,Cheese,41,5
+1930,Flour,152,20
+1931,Eggs,252,30
+1932,Cheese,5,5
+1933,Tomatoes,82,10
+1934,Tomatoes,93,10
+1935,Tomatoes,79,10
+1936,Olive Oil,25,2
+1937,Olive Oil,6,2
+1938,Eggs,187,30
+1939,Flour,148,20
+1940,Tomatoes,49,10
+1941,Cheese,41,5
+1942,Tomatoes,28,10
+1943,Rice,145,10
+1944,Eggs,46,30
+1945,Cheese,15,5
+1946,Cheese,39,5
+1947,Cheese,43,5
+1948,Chicken Breast,79,10
+1949,Tomatoes,62,10
+1950,Eggs,238,30
+1951,Tomatoes,98,10
+1952,Flour,87,20
+1953,Eggs,87,30
+1954,Olive Oil,11,2
+1955,Flour,112,20
+1956,Rice,71,10
+1957,Rice,120,10
+1958,Chicken Breast,27,10
+1959,Cheese,19,5
+1960,Rice,149,10
+1961,Flour,95,20
+1962,Lettuce,8,5
+1963,Eggs,128,30
+1964,Butter,20,5
+1965,Flour,168,20
+1966,Eggs,92,30
+1967,Eggs,49,30
+1968,Eggs,234,30
+1969,Butter,57,5
+1970,Olive Oil,22,2
+1971,Eggs,196,30
+1972,Flour,121,20
+1973,Butter,50,5
+1974,Tomatoes,66,10
+1975,Butter,28,5
+1976,Olive Oil,12,2
+1977,Tomatoes,79,10
+1978,Cheese,15,5
+1979,Cheese,50,5
+1980,Butter,26,5
+1981,Pasta,71,15
+1982,Cheese,45,5
+1983,Olive Oil,20,2
+1984,Tomatoes,43,10
+1985,Tomatoes,27,10
+1986,Rice,95,10
+1987,Lettuce,39,5
+1988,Rice,18,10
+1989,Tomatoes,48,10
+1990,Pasta,88,15
+1991,Butter,59,5
+1992,Tomatoes,22,10
+1993,Olive Oil,11,2
+1994,Chicken Breast,15,10
+1995,Pasta,45,15
+1996,Chicken Breast,68,10
+1997,Eggs,63,30
+1998,Chicken Breast,62,10
+1999,Cheese,45,5
